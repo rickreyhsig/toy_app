@@ -22,7 +22,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails', '4.6.0'
+gem 'jquery-rails', '4.6.1'
 gem 'jquery-ui-rails'
 gem 'jquery_datepicker'
 
